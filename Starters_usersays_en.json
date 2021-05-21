@@ -1,0 +1,30 @@
+[
+  {
+    "id": "4b6aae6b-7216-4e1c-bd8d-77b6b87b4bd8",
+    "data": [
+      {
+        "text": "Starter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf03eca1-2e05-49dc-b813-88b02e8959cc",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

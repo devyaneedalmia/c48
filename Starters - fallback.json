@@ -1,0 +1,36 @@
+{
+  "id": "fd3ae5a9-1340-4cf2-a27b-6ee115983ec6",
+  "parentId": "199af78e-c195-4b78-918d-a5b7b8e73f98",
+  "rootParentId": "199af78e-c195-4b78-918d-a5b7b8e73f98",
+  "name": "Starters - fallback",
+  "contexts": [
+    "await_choice",
+    "Starters-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Starters.Starters-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6bff7468-d07f-436d-aad1-a0e67fcdb4c4",
+    "data": [
+      {
+        "text": "main course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cb381f2-8a82-4792-a4e7-e78671187860",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

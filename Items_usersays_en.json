@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f535d4e0-3f22-4666-abe4-383d4c69ac16",
+    "data": [
+      {
+        "text": "Spaghetti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777ddd5d-39e9-4ddf-96a5-d9a5faa0b929",
+    "data": [
+      {
+        "text": "Sundae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4002fa8-d1ce-4f0a-acbd-2958b94a62ab",
+    "data": [
+      {
+        "text": "Soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0741ec93-adf2-45aa-a32b-dc3815cffd49",
+    "data": [
+      {
+        "text": "Mushroom risotto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afa75397-95c3-47be-a4b8-ad0aca0738c4",
+    "data": [
+      {
+        "text": "Arrabiatta pasta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
